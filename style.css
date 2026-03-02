@@ -1,0 +1,51 @@
+/* ===== Stile generale della pagina ===== */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0 20px;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* ===== Header ===== */
+header {
+    background-color: #ff6600;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* ===== Sezioni ===== */
+section {
+    margin: 40px 0;
+}
+
+/* Titoli di sezione */
+h2 {
+    color: #ff6600;
+}
+
+/* ===== Pulsanti download ===== */
+.ferrero-btn {
+    display: inline-block;
+    background-color: #ff6600;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+/* Effetto hover */
+.ferrero-btn:hover {
+    background-color: #e65c00;
+}
+
+/* ===== Footer ===== */
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #ddd;
+    margin-top: 40px;
+}
